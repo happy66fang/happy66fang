@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @happy66fang
-- 👀 I’m interested in exploing the fresh things,such as computer language, Chinese traditional sports and reading.
+- 👀 I’m interested in learning and sports. I hope I can get more useful knowledge in Github.
 - 🌱 I’m currently learning CSS by the internet, hoping to build up myself webpage.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
